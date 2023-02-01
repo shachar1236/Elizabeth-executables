@@ -1,0 +1,18 @@
+{
+    "firstBlockHash": "d2Bl6oCWCSHfcG8Dw4Ccrgq48hobmh0hoRZHHhPXZjE=",
+    "max": 100000,
+    "min": 1,
+    "open_port": 6234,
+    "role": "node",
+    "seednodes": [
+        {
+            "ip": "seed_node_2",
+            "port": 6234
+        },
+        {
+            "ip": "host.docker.internal",
+            "port": 6234
+        }
+    ],
+    "validator_public_key": ""
+}
