@@ -6,13 +6,13 @@
     "role": "node",
     "seednodes": [
         {
-            "ip": "seed_node_2",
+            "ip": "192.168.120.91",
             "port": 6234
         },
-        {
-            "ip": "host.docker.internal",
+		{
+            "ip": "192.168.120.156",
             "port": 6234
         }
     ],
-    "validator_public_key": ""
+    "validator_private_key": ""
 }
